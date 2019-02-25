@@ -1,2 +1,2 @@
 Aliaksandr Stsepanenka
-https://www.codecademy.com/users/scepanenka/achievements
+HTML CSS Basics: https://www.codecademy.com/users/scepanenka/achievements
